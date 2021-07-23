@@ -19,6 +19,14 @@ or for pipenv
 pipenv install -e git+https://github.com/twintproject/twint.git#egg=twint
 
 
+git clone the repo 
+
+cd into the DIR 
+
+' cd Twitter-HELZ
+
+' python3 Twint.py
+
 ####################TESTED ON 
 
 
